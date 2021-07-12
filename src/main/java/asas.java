@@ -8,5 +8,6 @@ public class asas {
         System.out.println("hot-fix修改01");
         System.out.println("master修改");
         System.out.println("hot-fix修改02");
+        System.out.println("push一次");
     }
 }
